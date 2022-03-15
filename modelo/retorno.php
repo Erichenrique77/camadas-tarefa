@@ -20,7 +20,7 @@ if ($idade<18){
     switch($BEBIDA){
         case '1' : $dados = array(
             "tipo" => "suco.jpg",
-            "mensagem" => "Seja bem-vindo, $NOME, sabemos que prefere Sucos!"
+            "mensagem" => "Seja bem-vindo, $NOME, sabemos que prefere sucos!"
         );
         break;
 
